@@ -73,3 +73,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Qin_BattleTank/Content/StarterContent/Audio/
+Qin_BattleTank/Content/StarterContent/Textures/
+Qin_BattleTank/Intermediate/
+Qin_BattleTank/Binaries/
+Qin_BattleTank/Saved/
+Qin_BattleTank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+Qin_BattleTank/Content/StarterContent/
